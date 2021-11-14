@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][ https://github.com/AditiVaidya10]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/aditi-vaidya-7a3451136/]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/aditiiiivaidya/]
+- GitHub :- https://github.com/AditiVaidya10 
+- LinkedIn :- https://www.linkedin.com/in/aditi-vaidya-7a3451136/
+- Instagram :- https://www.instagram.com/aditiiiivaidya/
 
