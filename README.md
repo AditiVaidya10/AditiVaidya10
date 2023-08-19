@@ -5,7 +5,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 💫 About Me:
-🔭 I’m currently working as **Programmer Analyst Trainee at Cognizant**<br><br>🌱 I’m currently learning **Cloud Computing**<br><br>👯 Aspiring to become a **Data Analyst**<br><br>🤝 I’m looking for help with **OpenSource Collaborations**<br><br>👨‍💻 All of my projects are available at **Ssssssshhhhhhhh [( Website development is in progress )]**<br><br>💬 Ask me about **Tech stack I use**<br><br>📫 How to reach me aditivaidya10@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1MnK1r7HlDUiTIg8pNUIoecjcG2kSJEoz/view?usp=sharing<br><br>⚡ Fun fact - **Well...I guess life is funny at times.**
+🔭 I’m currently working as **Programmer Analyst Trainee at Cognizant**<br><br>🌱 I’m currently learning **Cloud Computing**<br><br>👯 Aspiring to become a **Data Analyst**<br><br>🤝 I’m looking for help with **OpenSource Collaborations**<br><br>👨‍💻 All of my projects are available at **Ssssssshhhhhhhh [( Website development is in progress )]**<br><br>💬 Ask me about **Tech stack I use**<br><br>📫 How to reach me aditivaidya10@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/14GU4sj6QZuHfyNy6lZuj0XesCI6BuAbv/view?usp=sharing<br><br>⚡ Fun fact - **Well...I guess life is funny at times.**
 
 
 ## 🌐 Socials:
